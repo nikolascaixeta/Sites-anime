@@ -1,5 +1,6 @@
 # Sites-anime
 Trabalho da GHS, desenvolvimento de um site de noticias sobre os animes mais populares no Brasil
+
 Nikolas: Responsavel pela progamação geral
 
 Pedro Almeida: Responsavel pela progamação das paginas extras
