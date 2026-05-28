@@ -74,10 +74,18 @@ Paginas aberturas
 
 <img width="1080" height="1620" alt="image" src="https://github.com/user-attachments/assets/5c099c92-48e7-49db-9cb2-840534ac4305" />
 
+<img width="1900" height="1900" alt="image" src="https://github.com/user-attachments/assets/405c3bba-0ec2-4b2e-9e83-08eb2357c210" />
 
 
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/ef5ad673-97e9-4ff7-b922-7b4fd155ff1a" />
 
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c464f337-359f-46fd-8259-ba366f39b82b" />
 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e2c2396f-ad7f-4273-899f-0a3886d784cf" />
+
+
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/8ee60b11-9412-4fff-9bd5-78efad139e58" />
 
 
