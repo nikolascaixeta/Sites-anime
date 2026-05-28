@@ -53,6 +53,9 @@ Imagens Da Página dos principais animes
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0f630b8a-88ff-42f8-b744-869aba36aeb7" />
 
+<img width="692" height="369" alt="image" src="https://github.com/user-attachments/assets/6f8b3acb-d75b-49f0-b4ee-141307737c35" />
+
+
 
 
 
