@@ -28,3 +28,4 @@ https://canva.link/p5624vhf0sscw8d
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9ce96cee-d6e5-4fd4-a797-aa972e42cfe8" />
 
+<img width="1365" height="768" alt="cinema" src="https://github.com/user-attachments/assets/a07272fd-4ba7-47ae-9bf8-a650261107d2" />
