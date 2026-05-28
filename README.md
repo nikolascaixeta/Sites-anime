@@ -25,3 +25,5 @@ https://canva.link/p5624vhf0sscw8d
 
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2ee336c7-972b-4962-89ec-513d2e6dd41a" />
+
+https://br.ign.com/cavaleiros-do-zodiaco/100024/video/cavaleiros-do-zodiaco-como-o-anime-dominou-o-brasil
