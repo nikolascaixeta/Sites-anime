@@ -33,3 +33,12 @@ Imagens Da Página Principal
 <img width="1365" height="768" alt="cinema" src="https://github.com/user-attachments/assets/a07272fd-4ba7-47ae-9bf8-a650261107d2" />
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/5ac4ce57-e588-4cdb-a7ea-123fd94c2dbc" />
+
+<img width="1800" height="1200" alt="image" src="https://github.com/user-attachments/assets/9613a2f0-9f30-4699-bbda-4a23c5a03024" />
+
+<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/e1ef09b1-53b5-4577-9bb1-8aff69257d33" />
+
+<img width="1232" height="712" alt="image" src="https://github.com/user-attachments/assets/5f7c555c-d629-43cd-8af3-9d0fbb06a772" />
+
+
+
