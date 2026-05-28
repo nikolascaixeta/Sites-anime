@@ -61,6 +61,16 @@ Imagens Da Página dos jogos
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0f630b8a-88ff-42f8-b744-869aba36aeb7" />
 
+Paginas dos mangas
+
+<img width="1500" height="2250" alt="image" src="https://github.com/user-attachments/assets/8b40322a-7596-40c0-8173-57e1bed894ea" />
+
+<img width="897" height="1336" alt="image" src="https://github.com/user-attachments/assets/227564aa-840b-4ccc-935f-2423f00e6457" />
+
+<img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/00e6cca2-802c-4592-b9ca-64c8c21b4a81" />
+
+
+
 
 
 
