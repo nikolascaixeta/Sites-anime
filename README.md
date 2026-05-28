@@ -42,10 +42,14 @@ Imagens Da Página Principal
 
 <img width="1232" height="712" alt="image" src="https://github.com/user-attachments/assets/5f7c555c-d629-43cd-8af3-9d0fbb06a772" />
 
-
-Imagens Da Página dos principais animes
-
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/8233a847-ebf0-4597-9afd-d87cacdec16b" />
+
+<img width="692" height="369" alt="image" src="https://github.com/user-attachments/assets/6f8b3acb-d75b-49f0-b4ee-141307737c35" />
+
+
+Imagens Da Página dos jogos
+
+
 
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/41dc2d43-0ad7-4292-bb07-39baa70f44da" />
 
@@ -53,7 +57,7 @@ Imagens Da Página dos principais animes
 
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0f630b8a-88ff-42f8-b744-869aba36aeb7" />
 
-<img width="692" height="369" alt="image" src="https://github.com/user-attachments/assets/6f8b3acb-d75b-49f0-b4ee-141307737c35" />
+
 
 
 
