@@ -20,3 +20,6 @@ https://www.hdwallpapers.in/baryon_mode_goku_hinokami_kagura_monkey_d__luffy_nar
 
 <img width="736" height="1067" alt="image" src="https://github.com/user-attachments/assets/b5a66828-c11f-4c3f-bff0-2c9d80497030" />
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/591ad904-c93e-4623-b00a-11680477dc2f" />
+
+
