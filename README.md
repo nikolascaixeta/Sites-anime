@@ -21,6 +21,7 @@ Imagens Da Página Principal
 
 <img width="525" height="328" alt="image" src="https://github.com/user-attachments/assets/abfa8b93-a30c-4cb0-a2d2-128d50fcd98b" />
 
+<img width="736" height="1309" alt="image" src="https://github.com/user-attachments/assets/7d7f21f7-a038-4793-a2fd-8ffaa303d416" />
 
 
 <img width="736" height="1067" alt="image" src="https://github.com/user-attachments/assets/b5a66828-c11f-4c3f-bff0-2c9d80497030" />
