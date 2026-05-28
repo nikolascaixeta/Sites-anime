@@ -70,6 +70,9 @@ Paginas dos mangas
 <img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/00e6cca2-802c-4592-b9ca-64c8c21b4a81" />
 
 
+Paginas aberturas
+
+<img width="1080" height="1620" alt="image" src="https://github.com/user-attachments/assets/5c099c92-48e7-49db-9cb2-840534ac4305" />
 
 
 
