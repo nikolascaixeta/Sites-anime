@@ -15,7 +15,8 @@ https://www.jbox.com.br/
 https://canva.link/p5624vhf0sscw8d
 
 
-https://www.hdwallpapers.in/baryon_mode_goku_hinokami_kagura_monkey_d__luffy_naruto_uzumaki_tanjiro_kamado_4k_hd_crossover-wallpapers.html
+<img width="525" height="328" alt="image" src="https://github.com/user-attachments/assets/abfa8b93-a30c-4cb0-a2d2-128d50fcd98b" />
+
 
 
 <img width="736" height="1067" alt="image" src="https://github.com/user-attachments/assets/b5a66828-c11f-4c3f-bff0-2c9d80497030" />
