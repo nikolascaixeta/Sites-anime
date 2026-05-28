@@ -88,4 +88,11 @@ Paginas aberturas
 
 <img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/8ee60b11-9412-4fff-9bd5-78efad139e58" />
 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/be4889a9-a5a7-44e2-b889-f5b3631290c2" />
+
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/7d0058dc-7a60-4640-8a8d-0329e4d587ed" />
+
+Mp3 das musicas 
+
+
 
