@@ -12,4 +12,6 @@ Gabriel Henrique: Responsavel pela parte criativa e wireframe
 Básico do site: Nosso site vai conter uma menu que vai dar uma pagina geral sobre os animes mais famosos do brasil com um grafico, imagens e uma brave descrição, junto de 5 paginas mais especificas sobre animes,mangas,filmes de anime,musicas de anime e sobre tokusatso, alem de um rodapé que da acesso a uma pagina sobre a nossa equipe
 https://www.jbox.com.br/
 
+https://canva.link/p5624vhf0sscw8d
+
 
