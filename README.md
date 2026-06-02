@@ -31,9 +31,9 @@ Imagens Da Página Principal
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2ee336c7-972b-4962-89ec-513d2e6dd41a" />
 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9ce96cee-d6e5-4fd4-a797-aa972e42cfe8" />
-
 <img width="1365" height="768" alt="cinema" src="https://github.com/user-attachments/assets/a07272fd-4ba7-47ae-9bf8-a650261107d2" />
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9ce96cee-d6e5-4fd4-a797-aa972e42cfe8" />
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/5ac4ce57-e588-4cdb-a7ea-123fd94c2dbc" />
 
