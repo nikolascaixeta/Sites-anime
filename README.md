@@ -91,9 +91,15 @@ Imagens Da Página dos jogos
 
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/41dc2d43-0ad7-4292-bb07-39baa70f44da" />
 
+A gameplay de Pokémon GO gira em torno da exploração do mundo real, utilizando a realidade aumentada e o GPS do seu dispositivo móvel. Os jogadores caminham por suas cidades para encontrar e capturar Pokémon selvagens que aparecem no mapa. Além da captura, é possível chocar ovos, evoluir Pokémon e participar de batalhas em Ginásios para conquistar pontos de controle. O jogo também incentiva a interação social através de Raids cooperativas e trocas de Pokémon com outros jogadores. Eventos sazonais e pesquisas especiais oferecem desafios contínuos e recompensas exclusivas, mantendo a experiência dinâmica e engajadora para os treinadores.
+
 <img width="198" height="254" alt="image" src="https://github.com/user-attachments/assets/e4783d90-2741-4f77-afb8-9a14c93adbc6" />
 
+Dragon Ball Z: Budokai Tenkaichi 3 oferece uma experiência de combate 3D frenética e autêntica, com um vasto elenco de mais de 160 personagens da saga Dragon Ball. A jogabilidade se destaca pelas batalhas em arenas expansivas e destrutíveis, onde os jogadores podem voar livremente, executar combos aéreos e terrestres, e lançar ataques de energia devastadores. O sistema de combate é intuitivo, mas profundo, permitindo transformações em tempo real e a utilização de habilidades especiais únicas para cada personagem. Modos como o
+
 <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0f630b8a-88ff-42f8-b744-869aba36aeb7" />
+
+A jogabilidade de Yu-Gi-Oh! Forbidden Memories é única e se diferencia bastante das regras tradicionais do jogo de cartas colecionáveis. O sistema central foca na mecânica de fusão livre, onde os jogadores podem combinar quase qualquer carta da mão para criar monstros mais poderosos sem a necessidade de cartas de fusão específicas. Além disso, o jogo introduz o conceito de Alinhamentos Estelares, onde cada carta possui dois signos que determinam vantagens ou desvantagens em combate baseadas no zodíaco. O objetivo é reduzir os pontos de vida do oponente a zero através de duelos estratégicos e desafiadores. A progressão envolve vencer duelistas da campanha para ganhar novas cartas e estrelas, que podem ser trocadas por códigos de cartas poderosas. É um jogo conhecido por sua dificuldade elevada e pela necessidade de farmar vitórias para construir um deck competitivo contra os chefes finais. Por fim, a simplicidade das regras originais misturada com a complexidade das fusões cria uma experiência viciante e nostálgica para os fãs do PlayStation 1.
 
 Paginas dos mangas
 
