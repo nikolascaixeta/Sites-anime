@@ -1,13 +1,4 @@
-float:left;
-	border:1px solid #f00;
-	width:6.0em;
-	font:0.68em  Verdana, Arial, Helvetica, 
-	sans-serif;
-	background:#f1f1f1;
-	color:#333;
-	text-align:center;
-	padding:0  0.2em 0.2em  0;
-	text-decoration:none;
+
 # Sites-anime
 Trabalho da GHS, desenvolvimento de um site de noticias sobre os animes mais populares no Brasil
 
