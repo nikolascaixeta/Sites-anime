@@ -103,11 +103,35 @@ A jogabilidade de Yu-Gi-Oh! Forbidden Memories é única e se diferencia bastant
 
 Paginas dos mangas
 
-<img width="1500" height="2250" alt="image" src="https://github.com/user-attachments/assets/8b40322a-7596-40c0-8173-57e1bed894ea" />
+<img width="1500" height="2250" alt="image" src="https://github.com/user-attachments/assets/8b40322a-7596-40c0-8173-57e1bed894ea" /> 
+Ichigo Kurosaki obtém poderes de Ceifador de Almas e passa a proteger humanos de espíritos malignos. Enquanto luta contra inimigos cada vez mais fortes, descobre segredos sobre sua origem. Um mangá de ação sobrenatural repleto de batalhas épicas.
+Bleach conta a história de Ichigo Kurosaki, um jovem capaz de ver espíritos.
+Sua vida muda ao receber os poderes de uma Ceifadora de Almas chamada Rukia.
+A partir disso, ele passa a proteger humanos de criaturas conhecidas como Hollows.
+Ao longo da trama, Ichigo enfrenta diversos inimigos poderosos.
+Ele também descobre segredos importantes sobre sua família e suas origens.
+O mangá é conhecido por suas batalhas intensas e personagens carismáticos.
+É uma das obras mais populares do gênero shonen.
 
 <img width="897" height="1336" alt="image" src="https://github.com/user-attachments/assets/227564aa-840b-4ccc-935f-2423f00e6457" />
+Guts é um guerreiro solitário que vive em um mundo medieval cruel e repleto de horrores. Após uma tragédia que muda sua vida, ele inicia uma jornada de vingança e sobrevivência. A obra é conhecida por sua narrativa sombria e profunda.
+Berserk acompanha a jornada de Guts, um guerreiro marcado pelo sofrimento.
+Vivendo em um mundo medieval sombrio, ele enfrenta monstros e guerras constantes.
+Sua vida muda drasticamente após conhecer Griffith e o Bando do Falcão.
+Uma tragédia devastadora leva Guts a buscar vingança contra antigos aliados.
+A história aborda temas como destino, ambição e sobrevivência.
+A obra é reconhecida por sua narrativa madura e profunda.
+Seu traço detalhado é considerado um dos melhores da história dos mangás.
 
 <img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/00e6cca2-802c-4592-b9ca-64c8c21b4a81" />
+Johnny Joestar entra em uma corrida que atravessa os Estados Unidos em busca de um novo propósito. Ao lado de Gyro Zeppeli, ele enfrenta rivais e desvenda uma conspiração envolvendo relíquias misteriosas. Uma aventura que mistura ação, estratégia e poderes sobrenaturais.
+Steel Ball Run se passa nos Estados Unidos durante o século XIX.
+A trama acompanha Johnny Joestar, um ex-jóquei que busca recuperar seu propósito de vida.
+Ele participa de uma corrida que atravessa o país de costa a costa.
+Durante a jornada, faz amizade com Gyro Zeppeli, outro competidor da corrida.
+Os dois enfrentam adversários perigosos e desafios sobrenaturais.
+A busca por relíquias misteriosas se torna o centro da aventura.
+A obra é considerada por muitos fãs uma das melhores partes de JoJo.
 
 
 Paginas aberturas
