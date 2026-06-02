@@ -38,6 +38,13 @@ Dragon Ball Z acompanha as aventuras de Goku, que agora adulto descobre pertence
 
 
 
+display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #A30000; /* Vermelho escuro de fundo */
+  height: 60px; /* Altura fixa aproximada */
+  padding: 0 20px;
+
 
 Imagens Da Página Principal
 
