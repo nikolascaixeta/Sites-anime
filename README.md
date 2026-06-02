@@ -25,13 +25,9 @@ Imagens Da Página Principal
 
 <img width="525" height="328" alt="image" src="https://github.com/user-attachments/assets/abfa8b93-a30c-4cb0-a2d2-128d50fcd98b" />
 
-<img width="736" height="1309" alt="image" src="https://github.com/user-attachments/assets/7d7f21f7-a038-4793-a2fd-8ffaa303d416" />
-
-
 <img width="736" height="1067" alt="image" src="https://github.com/user-attachments/assets/b5a66828-c11f-4c3f-bff0-2c9d80497030" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/591ad904-c93e-4623-b00a-11680477dc2f" />
-
 
 <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2ee336c7-972b-4962-89ec-513d2e6dd41a" />
 
@@ -45,7 +41,8 @@ Imagens Da Página Principal
 
 <img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/e1ef09b1-53b5-4577-9bb1-8aff69257d33" />
 
-<img width="1232" height="712" alt="image" src="https://github.com/user-attachments/assets/5f7c555c-d629-43cd-8af3-9d0fbb06a772" />
+<img width="736" height="1309" alt="image" src="https://github.com/user-attachments/assets/7d7f21f7-a038-4793-a2fd-8ffaa303d416" />
+
 
 Pagina animes principais 
 
