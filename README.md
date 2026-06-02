@@ -24,6 +24,20 @@ A chegada dos animes à televisão brasileira consolidou-se como um marco cultur
 Os Cavaleiros do Zodíaco (Saint Seiya) acompanha um grupo de jovens guerreiros que utilizam armaduras sagradas, baseadas nas constelações do universo, para proteger a deusa grega Atena. O protagonista, Seiya de Pégaso, une-se a seus leais companheiros — Shiryu de Dragão, Hyoga de Cisne, Shun de Andrômeda e Ikki de Fênix — para combater forças malignas que ameaçam a Terra. Através do domínio do "Cosmo", a energia mística universal oculta em cada ser vivo, esses defensores enfrentam deuses rivais, generais implacáveis e até mesmo traidores dentro do seu próprio santuário protetor, em batalhas marcadas por sacrifício, superação e lealdade eterna.
 
 
+Pokémon acompanha a jornada de Ash Ketchum, um garoto de 10 anos da cidade de Pallet que sonha em se tornar o maior Mestre Pokémon do mundo. Após chegar atrasado para receber seu primeiro monstrinho com o Professor Carvalho, ele acaba recebendo um teimoso e rebelde Pikachu que recusa entrar na Pokébola. Ao lado dos líderes de ginásio Misty e Brock, e constantemente perseguido pelos atrapalhados vilões da Equipe Rocket, Ash viaja pela região de Kanto capturando novas criaturas, conquistando insígnias de ginásio e fortalecendo um laço inquebrável de amizade com seu parceiro elétrico.
+
+
+Digimon Adventure acompanha sete crianças que, durante um acampamento de verão, são transportadas misteriosamente para o DigiMundo, um universo digital paralelo habitado por criaturas chamadas Digimon. Lá, cada jovem descobre ser um "Digiescolhido" e ganha um parceiro Digimon, além de um Digivice e um brasão que representam suas maiores virtudes, como coragem e amizade. Liderados por Tai e seu parceiro Agumon, o grupo precisa unir forças e aprender a superar seus próprios conflitos internos para fazer seus parceiros evoluírem, enfrentando forças sombrias que ameaçam destruir tanto o mundo digital quanto o mundo real.
+
+
+Naruto conta a história de Naruto Uzumaki, um jovem órfão rejeitado pelos moradores da Vila da Folha por carregar em seu corpo o espírito da temível Raposa de Nove Caudas. Apesar da solidão e da falta de talento natural, o garoto sonha em se tornar o Hokage, o líder supremo e ninja mais forte da aldeia, para finalmente ser reconhecido por todos. Ao entrar para o Time 7, liderado por Kakashi Hatake, Naruto une-se ao rival prodígio Sasuke Uchiha e à determinada Sakura Haruno em missões perigosas, iniciando uma jornada intensa sobre superação, o peso dos laços de amizade e a busca incessante pelo seu próprio caminho ninja.
+
+
+
+Dragon Ball Z acompanha as aventuras de Goku, que agora adulto descobre pertencer a uma raça alienígena de guerreiros quase extinta chamada Saiyajin. Ao lado de seu filho Gohan e dos Defensores da Terra, Goku precisa elevar seus poderes a níveis divinos para enfrentar ameaças de escala cósmica que desejam destruir o planeta. Ao longo de batalhas épicas repletas de transformações lendárias, o anime mostra o confronto contra tiranos espaciais, androides assassinos e demônios ancestrais, destacando a icônica rivalidade e evolução entre Goku e o príncipe orgulhoso Vegeta.
+
+
+
 
 Imagens Da Página Principal
 
