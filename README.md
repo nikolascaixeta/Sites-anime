@@ -96,5 +96,15 @@ Paginas aberturas
 
 Mp3 das musicas 
 
+Imagens cinema
+
+<img width="250" height="356" alt="image" src="https://github.com/user-attachments/assets/73d75979-3e81-4689-93a1-c510285fe5f5" />
+
+<img width="266" height="374" alt="image" src="https://github.com/user-attachments/assets/7a52cb02-cc0b-4630-bba8-897b73b67510" />
+
+<img width="450" height="630" alt="image" src="https://github.com/user-attachments/assets/6bc25709-e6ae-42c0-8599-cbb19174f13c" />
+
+
+
 
 
