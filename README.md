@@ -41,6 +41,8 @@ Dragon Ball Z acompanha as aventuras de Goku, que agora adulto descobre pertence
 
 
 
+
+
 Imagens Da Página Principal
 
 
@@ -69,14 +71,23 @@ Pagina animes principais
 
 <img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/d6a88e7a-1c1c-46b9-9043-d47470f20db4" />
 
+Tanjiro busca vingar sua família e curar sua irmã transformada em demônio, tornando-se um Caçador de Demônios. Ele enfrenta criaturas aterrorizantes e desvenda segredos sombrios, lutando contra o líder dos demônios, Muzan Kibutsuji, em uma jornada de sacrifício e amizade.
+
+Após sua família ser brutalmente assassinada por demônios e sua irmã, Nezuko, ser transformada em um, Tanjiro Kamado embarca em uma perigosa jornada para se tornar um Caçador de Demônios. Determinado a vingar sua família e encontrar uma cura para Nezuko, ele enfrenta criaturas aterrorizantes e treina incansavelmente, dominando técnicas de respiração e esgrima. Ao longo do caminho, Tanjiro forma laços inquebráveis com outros caçadores, como Zenitsu e Inosuke, e descobre segredos sombrios sobre o mundo dos demônios e seu líder, Muzan Kibutsuji. A série explora temas de sacrifício, família e a luta incessante entre o bem e o mal, com batalhas épicas e um profundo desenvolvimento de personagens.
+
 <img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/8233a847-ebf0-4597-9afd-d87cacdec16b" />
+
+Monkey D. Luffy, um pirata com corpo elástico, sonha em ser o Rei dos Piratas e encontrar o tesouro One Piece. Ele e sua tripulação, os Piratas do Chapéu de Palha, navegam pela Grand Line, enfrentando inimigos e desvendando mistérios em busca de aventura e liberdade.
+
+Monkey D. Luffy, um jovem com o corpo elástico após comer uma Fruta do Diabo, sonha em se tornar o Rei dos Piratas e encontrar o lendário tesouro One Piece. Ele reúne uma tripulação diversificada e leal, os Piratas do Chapéu de Palha, incluindo o espadachim Zoro, a navegadora Nami, o atirador Usopp e o cozinheiro Sanji. Juntos, eles navegam pela Grand Line, enfrentando marinheiros, outros piratas poderosos e governos corruptos, enquanto buscam aventuras e desvendam os mistérios do mundo. A jornada de Luffy é marcada por amizade, liberdade e a busca por seus sonhos, com cada ilha visitada revelando novos desafios e aliados inesperados, tudo em busca do maior tesouro já conhecido.
 
 <img width="692" height="369" alt="image" src="https://github.com/user-attachments/assets/6f8b3acb-d75b-49f0-b4ee-141307737c35" />
 
+Naruto Uzumaki, um órfão com a Raposa de Nove Caudas, sonha em ser Hokage e ganhar respeito. Ele treina para se tornar um ninja poderoso, formando laços e enfrentando ameaças para proteger sua vila e provar seu valor.
+
+Naruto Uzumaki é um jovem órfão da Vila Oculta da Folha, rejeitado por carregar o espírito da temível Raposa de Nove Caudas. Com o sonho de se tornar Hokage, o líder de sua vila, e ganhar o respeito de todos, Naruto embarca em um árduo treinamento ninja. Ele forma o Time 7 com a inteligente Sakura Haruno e o talentoso Sasuke Uchiha, sob a tutela do misterioso Kakashi Hatake. A série acompanha seu crescimento, suas amizades e rivalidades, enquanto ele aprende a controlar seus poderes e a enfrentar ameaças que colocam em risco o mundo ninja. Naruto é uma história de perseverança, amizade e a busca por reconhecimento, com o protagonista superando obstáculos e provando seu valor através de sua determinação inabalável.
 
 Imagens Da Página dos jogos
-
-
 
 <img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/41dc2d43-0ad7-4292-bb07-39baa70f44da" />
 
@@ -121,12 +132,12 @@ Imagens cinema
 
 <img width="250" height="356" alt="image" src="https://github.com/user-attachments/assets/73d75979-3e81-4689-93a1-c510285fe5f5" />
 
+O filme segue Tanjiro, Nezuko, Zenitsu e Inosuke enquanto eles embarcam no Trem Infinito para investigar uma série de desaparecimentos. Lá, eles se encontram com Kyojuro Rengoku, o Hashira das Chamas, um dos espadachins mais poderosos do Corpo de Extermínio de Demônios. Rapidamente, eles descobrem que o trem é o covil de Enmu, um dos Doze Kizuki, que usa seus poderes para induzir sonhos profundos e manipular seus oponentes. A equipe deve lutar contra Enmu e, posteriormente, contra Akaza, um demônio de nível superior, em uma batalha desesperada para proteger os passageiros e uns aos outros. O filme é uma emocionante saga de sacrifício, dever e a força do espírito humano contra as forças do mal.
+
 <img width="1064" height="1596" alt="image" src="https://github.com/user-attachments/assets/c790873d-3518-4458-a396-43f441ad1dec" />
 
+Este filme é um prelúdio da série principal de Jujutsu Kaisen, focando em Yuta Okkotsu, um jovem assombrado pelo espírito amaldiçoado de sua amiga de infância, Rika Orimoto. Após um incidente, Yuta é levado para a Escola Técnica Superior de Jujutsu de Tóquio por Satoru Gojo, onde ele começa a aprender a controlar a maldição de Rika e a usar jujutsu. Ele se junta a Maki Zenin, Toge Inumaki e Panda, e juntos eles enfrentam maldições perigosas e o vilão Suguru Geto, que busca criar um mundo apenas para feiticeiros. A história explora o passado de Yuta, sua relação com Rika e sua jornada para aceitar e dominar seus poderes, culminando em uma batalha épica que molda o futuro do mundo jujutsu.
 
 <img width="450" height="630" alt="image" src="https://github.com/user-attachments/assets/6bc25709-e6ae-42c0-8599-cbb19174f13c" />
 
-
-
-
-
+O filme se passa após os eventos do anime, com Asta e seus amigos enfrentando uma nova e formidável ameaça. Quatro antigos Reis Magos, que foram banidos do Reino Clover, retornam com o objetivo de destruir o reino. Conrad Leto, o Rei Mago mais temido da história, lidera esse grupo, empunhando a lendária Espada Imperial. Asta, com sua anti-magia, e os Cavaleiros Mágicos devem unir forças para proteger o reino e seus habitantes. A batalha se intensifica, revelando segredos do passado e testando os limites do poder e da amizade. O filme aprofunda a mitologia de Black Clover, entregando ação intensa e momentos emocionantes que expandem o universo da série.
