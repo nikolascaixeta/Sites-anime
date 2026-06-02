@@ -1,4 +1,10 @@
-
+position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #a80000;
+    color: #fff;
+    z-index: 991;
 # Sites-anime
 Trabalho da GHS, desenvolvimento de um site de noticias sobre os animes mais populares no Brasil
 
