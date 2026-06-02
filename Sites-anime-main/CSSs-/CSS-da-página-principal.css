@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.topo-menu{
+    margin: 0;
+    padding: 0;
+}
+
+.topo-menu, li{
+    list-style: none;
+    display: inline;
+}
+
+.topo-menu, li, a{
+    float: center;
+	width:6.0em;
+	color: white;
+	text-align:center;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #a80000;
+    color: #000000;
+    z-index: 991;
+
+}
