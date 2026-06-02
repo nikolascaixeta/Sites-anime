@@ -20,6 +20,11 @@ Textos
 
 A chegada dos animes à televisão brasileira consolidou-se como um marco cultural, transformando profundamente o consumo de entretenimento infantojuvenil no país. Embora produções isoladas tenham estreado em décadas anteriores, foi na década de 1980 que a animação japonesa fincou suas raízes no imaginário nacional, abrindo caminho para o fenômeno de massa que se consolidaria nos anos seguintes.Durante os anos 80, emissoras como a Rede Manchete, a TV Gazeta e o SBT passaram a exibir títulos fundamentais que se diferenciavam drasticamente dos desenhos animados norte-americanos da época. Obras como Patrulha Estelar (Star Blazers), O Pirata do Espaço e, posteriormente, as séries de super-heróis em estilo tokusatsu (como Jaspion e Changeman, que compartilhavam o mesmo ecossistema cultural e estético dos animes) trouxeram narrativas seriadas, arcos dramáticos complexos e uma carga de ação inédita para o público brasileiro.A importância dessa introdução vai além da mera diversão e se divide em três pontos principais:Inovação Narrativa: Ao contrário das animações ocidentais com episódios independentes e conclusivos, os animes apresentavam histórias contínuas, onde as ações dos personagens tinham consequências reais e o amadurecimento era visível ao longo do tempo.Diversidade de Gêneros: O público brasileiro teve o primeiro contato com a ficção científica espacial densa e dramas que não subestimavam a inteligência das crianças, introduzindo conceitos de sacrifício, honra e dever.Formação de Mercado: O sucesso dessas produções na década de 80 pavimentou o terreno e estabeleceu a infraestrutura de dublagem, licenciamento e distribuição que permitiu a explosão definitiva dos animes nos anos 90, capitaneada pelo fenômeno Os Cavaleiros do Zodíaco.Assim, as exibições pioneiras dos anos 80 deixaram de ser apenas atrações passageiras na grade de programação para se tornarem a base de uma comunidade vibrante de fãs, influenciando gerações de criadores e mudando para sempre a cultura pop no Brasil.Sendo os principais títulos: Os Cavaleiros do Zodíaco (Rede Manchete): Fenômeno absoluto nos anos 90 que inaugurou a era de ouro e o mercado de licenciamento no país.Dragon Ball Z (Bandai/Cartoon Network/Globo): Consolidou o gênero de lutas de superpoderes e bateu recordes de audiência nas manhãs da TV aberta.Pokémon (Record/Globo): Transformou-se em uma febre cultural gigantesca que dominou os programas infantis, gerando álbuns de figurinhas e brinquedos.Yu-Gi-Oh! (Globo): Marcou os anos 2000 ao misturar a exibição do desenho com a febre real dos jogos de cartas colecionáveis.Naruto (SBT): Foi um dos últimos grandes fenômenos de massa da TV aberta, capturando uma nova geração de fãs antes da transição para o streaming.
 
+
+Os Cavaleiros do Zodíaco (Saint Seiya) acompanha um grupo de jovens guerreiros que utilizam armaduras sagradas, baseadas nas constelações do universo, para proteger a deusa grega Atena. O protagonista, Seiya de Pégaso, une-se a seus leais companheiros — Shiryu de Dragão, Hyoga de Cisne, Shun de Andrômeda e Ikki de Fênix — para combater forças malignas que ameaçam a Terra. Através do domínio do "Cosmo", a energia mística universal oculta em cada ser vivo, esses defensores enfrentam deuses rivais, generais implacáveis e até mesmo traidores dentro do seu próprio santuário protetor, em batalhas marcadas por sacrifício, superação e lealdade eterna.
+
+
+
 Imagens Da Página Principal
 
 
@@ -100,7 +105,8 @@ Imagens cinema
 
 <img width="250" height="356" alt="image" src="https://github.com/user-attachments/assets/73d75979-3e81-4689-93a1-c510285fe5f5" />
 
-<img width="266" height="374" alt="image" src="https://github.com/user-attachments/assets/7a52cb02-cc0b-4630-bba8-897b73b67510" />
+<img width="1064" height="1596" alt="image" src="https://github.com/user-attachments/assets/c790873d-3518-4458-a396-43f441ad1dec" />
+
 
 <img width="450" height="630" alt="image" src="https://github.com/user-attachments/assets/6bc25709-e6ae-42c0-8599-cbb19174f13c" />
 
