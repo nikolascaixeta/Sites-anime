@@ -1,0 +1,99 @@
+# Sites-anime
+Trabalho da GHS, desenvolvimento de um site de noticias sobre os animes mais populares no Brasil
+
+Nikolas: Responsavel pela progamação geral
+
+Pedro Almeida: Responsavel pela progamação das paginas extras
+
+Lucas Oliveira: Responsavel pela criação da logo e da progamação do site principal
+
+Gabriel Henrique: Responsavel pela parte criativa e wireframe
+
+Básico do site: Nosso site vai conter uma menu que vai dar uma pagina geral sobre os animes mais famosos do brasil com um grafico, imagens e uma brave descrição, junto de 5 paginas mais especificas sobre animes,mangas,filmes de anime,musicas de anime e sobre tokusatso, alem de um rodapé que da acesso a uma pagina sobre a nossa equipe
+https://www.jbox.com.br/
+
+WIREFRAME
+ 
+https://canva.link/p5624vhf0sscw8d
+
+Imagens Da Página Principal
+
+
+<img width="525" height="328" alt="image" src="https://github.com/user-attachments/assets/abfa8b93-a30c-4cb0-a2d2-128d50fcd98b" />
+
+<img width="736" height="1309" alt="image" src="https://github.com/user-attachments/assets/7d7f21f7-a038-4793-a2fd-8ffaa303d416" />
+
+
+<img width="736" height="1067" alt="image" src="https://github.com/user-attachments/assets/b5a66828-c11f-4c3f-bff0-2c9d80497030" />
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/591ad904-c93e-4623-b00a-11680477dc2f" />
+
+
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2ee336c7-972b-4962-89ec-513d2e6dd41a" />
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/9ce96cee-d6e5-4fd4-a797-aa972e42cfe8" />
+
+<img width="1365" height="768" alt="cinema" src="https://github.com/user-attachments/assets/a07272fd-4ba7-47ae-9bf8-a650261107d2" />
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/5ac4ce57-e588-4cdb-a7ea-123fd94c2dbc" />
+
+<img width="1800" height="1200" alt="image" src="https://github.com/user-attachments/assets/9613a2f0-9f30-4699-bbda-4a23c5a03024" />
+
+<img width="290" height="174" alt="image" src="https://github.com/user-attachments/assets/e1ef09b1-53b5-4577-9bb1-8aff69257d33" />
+
+<img width="1232" height="712" alt="image" src="https://github.com/user-attachments/assets/5f7c555c-d629-43cd-8af3-9d0fbb06a772" />
+
+Pagina animes principais 
+
+<img width="940" height="597" alt="image" src="https://github.com/user-attachments/assets/d6a88e7a-1c1c-46b9-9043-d47470f20db4" />
+
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/8233a847-ebf0-4597-9afd-d87cacdec16b" />
+
+<img width="692" height="369" alt="image" src="https://github.com/user-attachments/assets/6f8b3acb-d75b-49f0-b4ee-141307737c35" />
+
+
+Imagens Da Página dos jogos
+
+
+
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/41dc2d43-0ad7-4292-bb07-39baa70f44da" />
+
+<img width="198" height="254" alt="image" src="https://github.com/user-attachments/assets/e4783d90-2741-4f77-afb8-9a14c93adbc6" />
+
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0f630b8a-88ff-42f8-b744-869aba36aeb7" />
+
+Paginas dos mangas
+
+<img width="1500" height="2250" alt="image" src="https://github.com/user-attachments/assets/8b40322a-7596-40c0-8173-57e1bed894ea" />
+
+<img width="897" height="1336" alt="image" src="https://github.com/user-attachments/assets/227564aa-840b-4ccc-935f-2423f00e6457" />
+
+<img width="189" height="267" alt="image" src="https://github.com/user-attachments/assets/00e6cca2-802c-4592-b9ca-64c8c21b4a81" />
+
+
+Paginas aberturas
+
+<img width="1080" height="1620" alt="image" src="https://github.com/user-attachments/assets/5c099c92-48e7-49db-9cb2-840534ac4305" />
+
+<img width="1900" height="1900" alt="image" src="https://github.com/user-attachments/assets/405c3bba-0ec2-4b2e-9e83-08eb2357c210" />
+
+
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/ef5ad673-97e9-4ff7-b922-7b4fd155ff1a" />
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c464f337-359f-46fd-8259-ba366f39b82b" />
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e2c2396f-ad7f-4273-899f-0a3886d784cf" />
+
+
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/8ee60b11-9412-4fff-9bd5-78efad139e58" />
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/be4889a9-a5a7-44e2-b889-f5b3631290c2" />
+
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/7d0058dc-7a60-4640-8a8d-0329e4d587ed" />
+
+Mp3 das musicas 
+
+
+
