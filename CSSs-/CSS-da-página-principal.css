@@ -19,7 +19,7 @@ body{
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid red;
+    border-bottom: 8px solid rgb(128, 0, 0);
 }
 .menu ul {
     display: flex;
@@ -91,7 +91,7 @@ a:hover {
 
 
 .footer-column h3 {
-  color: #e60000;
+  color: rgb(128, 0, 0);
   font-size: 1.2rem;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -108,9 +108,10 @@ a:hover {
 
 
 main{
-    padding: 40px;
+    padding: 80px;
     flex: 1;
-    margin: 80px;
+    margin: 50px;
+    
 }
 
 footer{
@@ -120,6 +121,38 @@ footer{
 li{
     font-size: 28px;
 }
+.banner-seta {
+  display: inline-block;
+  position: relative;
+  background-color: rgb(128, 0, 0); 
+  color: rgb(255, 255, 255);              
+  font-weight: bold;
+  padding: 15px 40px;      
+  border-left: 20px solid rgb(128, 0, 0); 
+  box-sizing: border-box;
+}
 
+
+.banner-seta::after {
+  content: "";
+  position: absolute;
+  right: -30px;             
+  top: 0;
+  width: 0;
+  height: 0;
+  
+  border-top: 38px solid transparent;  
+  border-bottom: 38px solid transparent; 
+  border-left: 30px solid  rgb(128, 0, 0);    
+}
+h2, h3{
+    color: rgb(128, 0, 0) ;
+}
+.center{
+    text-align: justify;
+    max-width: 1000px;
+    margin: 0 auto;
+    
+}
 
 
