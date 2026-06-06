@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    padding: 40px;
+   
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -108,7 +108,7 @@ a:hover {
 
 
 main{
-    padding: 80px;
+   padding: 160px;
     flex: 1;
     margin: 50px;
     
@@ -117,6 +117,7 @@ main{
 
 footer{
     width: 100%;
+    border-top: 8px solid rgb(128, 0, 0);
 }
 
 li{
@@ -178,4 +179,44 @@ img{
 }
 .Imgcentro:hover{
      transform: scale(1.1);
+}
+.banner-seta.duplas::before{
+  content: "";
+  position: absolute;
+  left: -50px;             
+  top: 0;
+  width: 0;
+  height: 0;
+  
+  border-top: 38px solid transparent;  
+  border-bottom: 38px solid transparent; 
+  border-right: 30px solid  rgb(128, 0, 0);  
+  z-index: 10;  
+}
+.banner-seta {
+  display: inline-block;
+  position: relative;
+  background-color: rgb(0, 0, 0); 
+  color: rgb(255, 0, 0);              
+  font-weight: bold;
+  padding: 15px 40px;      
+  border-left: 20px solid rgb(0, 0, 0); 
+  box-sizing: border-box;
+}
+
+
+.banner-seta::after {
+  content: "";
+  position: absolute;
+  right: -30px;             
+  top: 0;
+  width: 0;
+  height: 0;
+  
+  border-top: 38px solid transparent;  
+  border-bottom: 38px solid transparent; 
+  border-left: 30px solid  rgb(128, 0, 0);    
+}
+.h3giga{
+    font-size: 40px;
 }
