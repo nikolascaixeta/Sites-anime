@@ -162,18 +162,12 @@ h2, h3{
     gap: 20px;                    
     padding: 30px 0;
     width: 100%;
-    border-bottom: 8px solid rgb(255, 0, 0);
-    border-top: 8px solid rgb(255, 0, 0);
-    background-color: #000000;
-    border-right: 52px solid #000000;
-    border-left: 52px solid #000000;
-    box-sizing: border-box;
 }
 
 .imglnk {
     display: block ;
     flex-shrink: 0;                
-    width: 190px;                   
+    width: 200px;                   
     height: 400px;                  
     overflow: hidden;               
     clip-path: polygon(50% 0%, 100% 8%, 100% 92%, 50% 100%, 0% 92%, 0% 8%);
@@ -187,6 +181,7 @@ h2, h3{
     height: 100% ;
     object-fit: cover;             
     display: block ;
+    
 }
 
 .imglnk:hover{
@@ -238,74 +233,3 @@ h2, h3{
   border-right: 30px solid  rgb(128, 0, 0);  
   z-index: 10;  
 }
-
-#cvz{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-}
-
-#pkm{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-}
-
-#dgm{
-    align-items: center;
-    justify-content: center;
-    display: flex;
-}
-
-#imgdbz {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#dbzimg{
-    height: 500px;
-    width: 1000px;
-    object-fit: cover;
-    object-position: center;
-}
-
-#imgcvz {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#cvzimg{
-    height: 500px;
-    width: 1000px;
-    object-fit: cover;
-    object-position: center;
-}
-
-#imgpkm {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#pkmimg{
-    height: 500px;
-    width: 1000px;
-    object-fit: cover;
-    object-position: center;
-}
-
-#imgdgm {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-#dgmimg{
-    height: 500px;
-    width: 1000px;
-    object-fit: cover;
-    object-position: center;
-}
-
