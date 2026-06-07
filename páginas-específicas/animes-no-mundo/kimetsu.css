@@ -13,13 +13,13 @@ body{
     justify-content: flex-start;
     align-items: center;
     padding: 10px 40px;
-    background-color: #000000;
+    background-color: black;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid rgb(128, 0, 0);
+    border-bottom: 8px solid RGB(240, 126, 38);
 }
 .menu ul {
     display: flex;
@@ -63,11 +63,11 @@ a {
     transition: color 0.3s ease; 
 }
 a:hover {
-    color: red; 
+    color: RGB(10, 115, 91); 
 }
 
 .site-footer {
-  background-color: #0a0a0a; 
+  background-color:RGB(28, 41, 66); 
  
   padding: 40px 20px;
 
@@ -91,7 +91,7 @@ a:hover {
 
 
 .footer-column h3 {
-  color: rgb(128, 0, 0);
+  color: RGB(147, 151, 156);
   font-size: 1.2rem;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -117,7 +117,7 @@ main{
 
 footer{
     width: 100%;
-    border-top: 8px solid rgb(128, 0, 0);
+    border-top: 8px solid RGB(87, 72, 65);
 }
 
 li{
@@ -197,11 +197,11 @@ img{
 .banner-seta {
   display: inline-block;
   position: relative;
-  background-color: rgb(0, 0, 0); 
-  color: rgb(255, 0, 0);              
+  background-color:RGB(19, 19, 21); 
+  color:RGB(10, 115, 91);              
   font-weight: bold;
   padding: 15px 40px;      
-  border-left: 20px solid rgb(0, 0, 0); 
+  border-left: 20px solid RGB(110, 38, 38); 
   box-sizing: border-box;
 }
 .banner-seta::after {
@@ -214,7 +214,7 @@ img{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid RGB(110, 38, 38);    
 }
 .h3giga{
     font-size: 40px;
@@ -228,4 +228,8 @@ img{
     border: 4px solid #550101;
     padding: 8px;
     text-align: center;
+}
+
+.zenitsu:hover{
+    color: RGB(250, 203, 62);
 }
