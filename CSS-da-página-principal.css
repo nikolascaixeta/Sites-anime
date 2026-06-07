@@ -6,7 +6,6 @@ body{
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-    
 
 }
 .cabecalho {
@@ -234,8 +233,3 @@ h2, h3{
   border-right: 30px solid  rgb(128, 0, 0);  
   z-index: 10;  
 }
-
-
-
-
-
