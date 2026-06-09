@@ -155,5 +155,20 @@ h2, h3{
     margin: 0 auto;
     
 }
+.logoempresa{
+     width: 200px;
+     height: auto;
+}
+
+.conteudo-empresa{
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+
+.estilo{
+    font-size:45px;
+    color: gold;
+}
 
 
