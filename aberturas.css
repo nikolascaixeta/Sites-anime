@@ -154,6 +154,8 @@ h2, h3{
     max-width: 1000px;
     margin: 0 auto;
     
+    margin: 10px;
+    
 }
 
 .h3espaco{
@@ -202,6 +204,7 @@ h2, h3{
 
 .tab{
     align-items: center;
+    
 }
 
 .abert {
@@ -334,4 +337,9 @@ th{
 
 .cll2{
     text-transform: none !important;
+}
+.meio{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
