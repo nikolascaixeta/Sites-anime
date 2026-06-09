@@ -223,8 +223,11 @@ img{
     border-collapse: collapse;
     width: 50%;
     margin: 30px auto;
+    background-color: black;
+    color: white;
+    box-shadow: 0 0 15px #550101, 0 0 40px #550101;
 }
 .tabela td, .tabela th, .tabela tr {
-    border: 1px solid #550101;
+    border: 2px solid #ffffff;
     padding: 8px;
 }
