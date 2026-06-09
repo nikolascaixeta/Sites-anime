@@ -1,11 +1,15 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   
+    background: url(fundodms.png);
     margin: 0px;
     display: flex;
     flex-direction: column;
     min-width: 100vh;
+     background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 
 }
 .cabecalho {
@@ -13,13 +17,13 @@ body{
     justify-content: flex-start;
     align-items: center;
     padding: 10px 40px;
-    background-color: black;
+    background-color:black;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid RGB(240, 126, 38);
+    border-bottom: 8px solid #e0b0ff;
 }
 .menu ul {
     display: flex;
@@ -36,7 +40,7 @@ body{
 .imgtopo2{
     width: 48px;
     height: 48px;
-    background-color: #ffffff;
+    
     transition: transform 0.3s ease;
 }
 .imgtopo2:hover{
@@ -63,11 +67,11 @@ a {
     transition: color 0.3s ease; 
 }
 a:hover {
-    color: RGB(10, 115, 91); 
+    color: #5A4AA8; 
 }
 
 .site-footer {
-  background-color:RGB(28, 41, 66); 
+  background-color: #1C233A; 
  
   padding: 40px 20px;
 
@@ -117,7 +121,7 @@ main{
 
 footer{
     width: 100%;
-    border-top: 8px solid RGB(87, 72, 65);
+    border-top: 8px solid #e0b0ff;
 }
 
 li{
@@ -126,11 +130,11 @@ li{
 .banner-seta {
   display: inline-block;
   position: relative;
-  background-color: rgb(128, 0, 0); 
+  background-color: #D96C4A; 
   color: rgb(255, 255, 255);              
   font-weight: bold;
   padding: 15px 40px;      
-  border-left: 20px solid rgb(128, 0, 0); 
+  border-left: 20px solid #D96C4A; 
   box-sizing: border-box;
 }
 
@@ -145,7 +149,7 @@ li{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid #D96C4A;    
 }
 h2, h3{
     color: rgb(128, 0, 0) ;
@@ -191,17 +195,17 @@ img{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-right: 30px solid  rgb(128, 0, 0);  
+  border-right: 30px solid  #D96C4A;  
   z-index: 10;  
 }
 .banner-seta {
   display: inline-block;
   position: relative;
-  background-color:RGB(19, 19, 21); 
+  background-color: #2f2a25; 
   color:RGB(10, 115, 91);              
   font-weight: bold;
   padding: 15px 40px;      
-  border-left: 20px solid RGB(110, 38, 38); 
+  border-left: 20px solid #5A4AA8; 
   box-sizing: border-box;
 }
 .banner-seta::after {
@@ -214,7 +218,7 @@ img{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid RGB(110, 38, 38);    
+  border-left: 30px solid #5A4AA8;    
 }
 .h3giga{
     font-size: 40px;
@@ -225,17 +229,20 @@ img{
     margin: 30px auto;
     background-color: black;
     color: white;
-    box-shadow: 0 0 15px #550101, 0 0 40px #550101;
+    box-shadow: 0 0 15px #8A6BE8, 0 0 40px #8A6BE8;
 }
 .tabela td, .tabela th, .tabela tr {
-    border: 2px solid  #ffffff;
+    border: 2px solid  #8A6BE8;
     padding: 8px; 
     text-align: center;
 }
 
 .zenitsu:hover{
-    color: RGB(250, 203, 62);
+    color:#5A4AA8;
 }
 #audion{
     display: none;
+}
+main{
+    color: #FFF4E6;
 }

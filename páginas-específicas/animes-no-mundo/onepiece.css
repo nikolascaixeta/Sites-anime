@@ -1,12 +1,15 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   
+   background: url(fundomar.png);
     margin: 0px;
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 .cabecalho {
     display: flex;
@@ -36,7 +39,7 @@ body{
 .imgtopo2{
     width: 48px;
     height: 48px;
-    background-color: #ffffff;
+    
     transition: transform 0.3s ease;
 }
 .imgtopo2:hover{
@@ -234,4 +237,7 @@ img{
 }
 #audion{
     display: none;
+}
+main{
+  color:#F7D447 ;  
 }
