@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="219mm"
+   height="126mm"
+   viewBox="0 0 827.71732 476.22029"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.50835204"
-     inkscape:cx="765.21774"
-     inkscape:cy="563.58582"
+     inkscape:zoom="0.50837798"
+     inkscape:cx="521.2657"
+     inkscape:cy="233.09428"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -33,73 +33,21 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs1">
-    <rect
-       x="295.07111"
-       y="287.20255"
-       width="1076.026"
-       height="361.95389"
-       id="rect13" />
-    <rect
-       x="478.0152"
-       y="324.57822"
-       width="297.03825"
-       height="424.9024"
-       id="rect12" />
-    <rect
-       x="513.42373"
-       y="342.28249"
-       width="241.95831"
-       height="342.28249"
-       id="rect11" />
-    <rect
-       x="409.16527"
-       y="304.90681"
-       width="401.29671"
-       height="409.16527"
-       id="rect10" />
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     style="mix-blend-mode:normal;fill:none">
+     id="layer1">
     <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke-width:0.147151"
+       style="display:inline;mix-blend-mode:normal;fill:none;fill-opacity:1;stroke-width:0.556161"
        id="rect7"
-       width="211.04094"
-       height="91.413307"
-       x="0"
-       y="105.65594" />
-    <text
-       xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text10"
-       style="font-size:26.6667px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text11"
-       style="font-size:26.6667px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect11);display:inline;fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text12"
-       style="font-size:26.6667px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       transform="scale(0.26458333)"
-       id="text13"
-       style="font-size:26.6667px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect13);display:inline;fill:#ffffff;fill-opacity:1" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Camada Letras Grandes"
-     transform="translate(-2.6023632,28.105523)">
+       width="797.63507"
+       height="345.49911"
+       x="22.57457"
+       y="71.250214" />
     <g
        id="g17"
-       transform="matrix(0.88096,0,0,0.78501468,-97.355305,82.418261)"
+       transform="matrix(3.3296127,0,0,2.9669847,-355.21818,89.648395)"
        style="mix-blend-mode:normal;fill:none">
       <g
          id="g16"
@@ -115,7 +63,7 @@
              transform="matrix(0.6889109,0,0,0.67093909,265.69656,28.600929)"><tspan
                x="75.989006"
                y="128.03627"
-               id="tspan4">H</tspan></text>
+               id="tspan10">H</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:176.389px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:516.639;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -125,7 +73,7 @@
              transform="matrix(0.62617904,0,0,0.70816604,276.85525,23.597404)"><tspan
                x="75.989006"
                y="128.03627"
-               id="tspan5">H</tspan></text>
+               id="tspan11">H</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:176.389px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:543.006;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
@@ -135,13 +83,13 @@
              transform="matrix(0.55201826,0,0,0.71147803,287.63595,23.565092)"><tspan
                x="75.989006"
                y="128.03627"
-               id="tspan6">H</tspan></text>
+               id="tspan12">H</tspan></text>
         </g>
       </g>
     </g>
     <g
        id="g13"
-       transform="matrix(0.85992298,0,0,0.79748647,87.820474,21.468268)"
+       transform="matrix(3.2501027,0,0,3.0141222,344.6588,-140.7138)"
        style="mix-blend-mode:normal;fill:none">
       <g
          id="g12"
@@ -155,7 +103,7 @@
            transform="matrix(0.6889109,0,0,0.67580704,143.77144,100.84383)"><tspan
              x="75.989006"
              y="128.03627"
-             id="tspan9">A</tspan></text>
+             id="tspan13">A</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:176.389px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:516.639;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -165,7 +113,7 @@
            transform="matrix(0.57727823,0,0,0.68173995,160.52925,99.276923)"><tspan
              x="75.989006"
              y="128.03627"
-             id="tspan11">A</tspan></text>
+             id="tspan14">A</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:176.389px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:543.006;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
@@ -175,12 +123,12 @@
            transform="matrix(0.47062117,0,0,0.67294965,174.57375,101.0416)"><tspan
              x="75.989006"
              y="128.03627"
-             id="tspan12">A</tspan></text>
+             id="tspan15">A</tspan></text>
       </g>
     </g>
     <g
        id="g16-7"
-       transform="matrix(0.8920721,0,0,0.79663549,-151.96304,190.95763)"
+       transform="matrix(3.3716112,0,0,3.0109059,-561.60963,499.87591)"
        style="mix-blend-mode:normal;fill:none">
       <g
          id="g18-1"
@@ -197,7 +145,7 @@
              transform="matrix(0.73173779,0,0,0.68072633,261.66544,27.347807)"><tspan
                x="75.989006"
                y="128.03627"
-               id="tspan13">R</tspan></text>
+               id="tspan16">R</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:176.389px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:516.639;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
@@ -207,7 +155,7 @@
              transform="matrix(0.65212179,0,0,0.69733003,274.44003,24.94612)"><tspan
                x="75.989006"
                y="128.03627"
-               id="tspan14">R</tspan></text>
+               id="tspan17">R</tspan></text>
           <text
              xml:space="preserve"
              style="font-size:176.389px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:543.006;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
@@ -217,7 +165,7 @@
              transform="matrix(0.55201826,0,0,0.68461841,287.63595,26.926725)"><tspan
                x="75.989006"
                y="128.03627"
-               id="tspan15">R</tspan></text>
+               id="tspan18">R</tspan></text>
         </g>
       </g>
     </g>
