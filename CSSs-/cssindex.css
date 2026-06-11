@@ -1,70 +1,43 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    
+    background-color: #000000;
     margin: 0px;
     display: flex;
     flex-direction: column;
     min-width: 100vh;
+}
 
-}
-.cabecalho {
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    flex-direction: row;
-    padding: 10px 40px;
-    background-color: #000000;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 1000;
-    border-bottom: 8px solid rgb(255, 0, 0);
-}
-.menu ul {
-    display: flex;
-    
-    list-style: none;
-    gap: 30px;
-}
 
 #imgtopo1{
-    width: 320px;
-    height: 120px;
+    width: 1000px;
+    height: auto;
     transition: transform 0.3s ease;
+    box-shadow:0px 20px 400px rgb(255, 0, 0);
+    border-top: 38px solid transparent;  
+    border-right: 38px solid transparent; 
+    border-bottom: 30px solid  rgb(255, 0, 0);  
+    border-left: 30px solid  rgb(255, 0, 0);  
 }
-.imgtopo2{
-    width: 48px;
-    height: 48px;
-    
-    transition: transform 0.3s ease;
-}
-.imgtopo2:hover{
- transform: scale(1.2);
-}
+
 #imgtopo1:hover{
  transform: scale(1.2);
 }
-.esquerda{
-    display: flex;
-    justify-content: flex-start;
-}
+
 .centro{
     display: flex;
     justify-content: center;
-    
+    margin: 20px;
+    padding: 20px;
 }
-.direita{
-    margin-left: 80px;
-}
+
 a {
     color: rgb(240, 240, 240); 
     text-decoration: none;
     transition: color 0.3s ease; 
 }
 a:hover {
-    color: red; 
+    color: rgb(255, 0, 0); 
 }
 
 .site-footer {
@@ -92,7 +65,7 @@ a:hover {
 
 
 .footer-column h3 {
-  color: rgb(128, 0, 0);
+  color: rgb(255, 0, 0);
   font-size: 1.2rem;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -112,43 +85,15 @@ main{
     padding: 160px;
     flex: 1;
     margin: 50px;
-    
 }
 
 footer{
     width: 100%;
-    border-top: 8px solid rgb(128, 0, 0);
+    border-top: 8px solid rgb(255, 0, 0);
 }
 
 li{
     font-size: 28px;
-}
-.banner-seta {
-  display: inline-block;
-  position: relative;
-  background-color: rgb(0, 0, 0); 
-  color: rgb(255, 0, 0);              
-  font-weight: bold;
-  padding: 15px 40px;      
-  border-left: 20px solid rgb(0, 0, 0); 
-  box-sizing: border-box;
-}
-
-
-.banner-seta::after {
-  content: "";
-  position: absolute;
-  right: -30px;             
-  top: 0;
-  width: 0;
-  height: 0;
-  
-  border-top: 38px solid transparent;  
-  border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
-}
-h2, h3{
-    color: rgb(128, 0, 0) ;
 }
 .center{
     text-align: justify;
@@ -166,10 +111,11 @@ h2, h3{
     width: 100%;
     border-bottom: 8px solid rgb(255, 0, 0);
     border-top: 8px solid rgb(255, 0, 0);
-    background-color: #000000;
-    border-right: 52px solid #000000;
-    border-left: 52px solid #000000;
+    background-color: #ffffff;
+    border-right: 12px solid #ffffff;
+    border-left: 12px solid #ffffff;
     box-sizing: border-box;
+    box-shadow:0px 8px 80px rgb(255, 0, 0);
 }
 
 .imglnk {
@@ -196,11 +142,11 @@ h2, h3{
 }
 
 .text-pri{
-     position: absolute;
+    position: absolute;
     top: 50% ;
     left: 50% ;
     transform: translate(-50%, -50%);
-    
+    text-align: center;
     color: rgb(255, 255, 255) ;
     font-weight: bold ; 
     text-shadow: 2px 2px 4px rgb(0, 0, 0);
@@ -329,4 +275,13 @@ p{
 .row{
     display:flex;
     flex-direction: row;
+}
+
+#bemv{
+    color: #ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 120px;
+    text-align: center;
+    text-shadow:0px 4px 8px #ff0000;
+    padding: 40px;
 }
