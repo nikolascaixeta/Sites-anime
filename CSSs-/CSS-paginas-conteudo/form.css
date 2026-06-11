@@ -228,7 +228,7 @@ body, input{
     margin: 4px;
     text-align: center;
     font-size: 24px;
-    color: rgb(0, 0, 0);
+    color: rgb(120, 0, 0);
     background-image: url(planocruzeiro.jpg);
      background-size: cover;
      background-repeat: no-repeat;
@@ -239,6 +239,55 @@ body, input{
 input[type="radio"]{
     accent-color:rgb(128, 0, 0);
 }
-input[type="checkbox"]{
-    accent-color: rgb(128, 0, 0);
+
+label{
+    color: dimgrey;
+}
+.Dbz[type="checkbox"]{
+    accent-color: rgb(255, 179, 0);
+}
+.Ds[type="checkbox"]{
+    accent-color: rgb(255, 68, 0);
+}
+.Op[type="checkbox"]{
+    accent-color: rgba(251, 2, 2, 0.821);
+}
+.Bleach[type="checkbox"]{
+    accent-color: rgb(0, 225, 255);
+}
+.Berserk[type="checkbox"]{
+    accent-color: rgb(1, 17, 19);
+}
+.dgm[type="checkbox"]{
+    accent-color: rgb(0, 30, 255);
+}
+.jojo[type="checkbox"]{
+    accent-color: rgb(149, 0, 255);
+}
+.cvz[type="checkbox"]{
+    accent-color: rgb(210, 243, 248);
+}
+.pkm[type="checkbox"]{
+    accent-color: rgb(255, 251, 31);
+}
+.yugi[type="checkbox"]{
+    accent-color: rgb(226, 210, 68);
+}
+.quest{
+    text-align: center;
+}
+.sobrenome[type="text"]{
+    width: 250px;;
+}
+.pnome[type="text"]{
+    width: 310px;
+}
+.endEmail[type="email"]{
+    width: 315px;
+}
+.senha[type="password"]{
+    width: 305px;
+}
+.genre{
+    
 }
