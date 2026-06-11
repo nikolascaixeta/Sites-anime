@@ -155,5 +155,29 @@ h2, h3{
     margin: 0 auto;
     
 }
+.logoempresa{
+    width: 505px;
+    height: auto;
+}
+.imagens-lado-a-lado {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.imagens-lado-a-lado img {
+    max-width: 250px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+
+
+
+
+
 
 
