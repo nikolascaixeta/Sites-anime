@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    background: url(fundodms.png);
+    background: url(../../imgeral/imgespecífica/fundodms.png);
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -202,7 +202,7 @@ img{
   display: inline-block;
   position: relative;
   background-color: #2f2a25; 
-  color:RGB(10, 115, 91);              
+  color: #3FAF7A;              
   font-weight: bold;
   padding: 15px 40px;      
   border-left: 20px solid #5A4AA8; 
@@ -245,4 +245,9 @@ img{
 }
 main{
     color: #FFF4E6;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+
 }

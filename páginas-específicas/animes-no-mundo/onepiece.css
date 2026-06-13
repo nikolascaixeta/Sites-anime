@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   background: url(fundomar.png);
+   background: url(../../Imgeral/imgespecífica/planone.webp);
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -240,4 +240,8 @@ img{
 }
 main{
   color:#F7D447 ;  
+}
+.row{
+    display: flex;
+    flex-direction: row;
 }
