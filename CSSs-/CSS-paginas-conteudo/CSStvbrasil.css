@@ -326,3 +326,7 @@ p{
 .h3giga{
     font-size: 40px;
 }
+.row{
+    display: flex;
+    justify-content: flex-end;
+}
