@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   background: url(../../Imgeral/imgespecífica/planone.webp);
+   background: url(../../Imgeral/imgespecífica/planopiece.png);
     margin: 0px;
     display: flex;
     flex-direction: column;
@@ -16,13 +16,13 @@ background-repeat: no-repeat;
     justify-content: flex-start;
     align-items: center;
     padding: 10px 40px;
-    background-color: #000000;
+    background-color: #050B24;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid rgb(128, 0, 0);
+    border-bottom: 8px solid #263B5E;
 }
 .menu ul {
     display: flex;
@@ -61,16 +61,16 @@ background-repeat: no-repeat;
     margin-left: 80px;
 }
 a {
-    color: rgb(240, 240, 240); 
+    color: #ffffff; 
     text-decoration: none;
     transition: color 0.3s ease; 
 }
 a:hover {
-    color: red; 
+    color: #00E5FF; 
 }
 
 .site-footer {
-  background-color: #0a0a0a; 
+  background-color: #050B24; 
  
   padding: 40px 20px;
 
@@ -94,7 +94,7 @@ a:hover {
 
 
 .footer-column h3 {
-  color: rgb(128, 0, 0);
+  color: #8A3FFC;
   font-size: 1.2rem;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -120,7 +120,7 @@ main{
 
 footer{
     width: 100%;
-    border-top: 8px solid rgb(128, 0, 0);
+    border-top: 8px solid #263B5E;
 }
 
 li{
@@ -148,7 +148,7 @@ li{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid  #0B1D3A;    
 }
 h2, h3{
     color: rgb(128, 0, 0) ;
@@ -177,6 +177,7 @@ p{
     text-indent: 30px;
     margin-top: 15px;    
     margin-bottom: 25px; 
+    color: #D7E6F5;
 }
 img{
     margin: 20px;
@@ -200,11 +201,11 @@ img{
 .banner-seta {
   display: inline-block;
   position: relative;
-  background-color: rgb(0, 0, 0); 
-  color: rgb(255, 0, 0);              
+  background-color: #0B1D3A; 
+  color: #8A3FFC;              
   font-weight: bold;
   padding: 15px 40px;      
-  border-left: 20px solid rgb(0, 0, 0); 
+  border-left: 20px solid #A6F0FF; 
   box-sizing: border-box;
 }
 .banner-seta::after {
@@ -217,7 +218,7 @@ img{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid  #A6F0FF    
 }
 .h3giga{
     font-size: 40px;
@@ -228,7 +229,7 @@ img{
     margin: 30px auto;
     background-color: black;
     color: white;
-    box-shadow: 0 0 15px #550101, 0 0 40px #550101;
+    box-shadow: 0 0 15px #550101, 0 0 40px #00E5FF;
 }
 .tabela td, .tabela th, .tabela tr {
     border: 2px solid #ffffff;

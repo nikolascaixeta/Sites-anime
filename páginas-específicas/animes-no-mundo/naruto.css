@@ -1,13 +1,17 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   
+    background: url(../../Imgeral/imgespecífica/naruto3.jpg);
     margin: 0px;
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
+
 .cabecalho {
     display: flex;
     justify-content: flex-start;
@@ -19,8 +23,14 @@ body{
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid rgb(128, 0, 0);
+    border-bottom: 8px solid #F59E0B;
+    background:
+    linear-gradient(
+        rgba(5,11,13),
+        rgba(5,11,13)
+    );
 }
+
 .menu ul {
     display: flex;
     
@@ -63,11 +73,15 @@ a {
     transition: color 0.3s ease; 
 }
 a:hover {
-    color: red; 
+   color: #0EA5E9;
 }
 
 .site-footer {
-  background-color: #0a0a0a; 
+  background: linear-gradient(
+    90deg,
+    rgba(91,60,196,.9),
+    rgba(242,140,40,.9)
+   );
  
   padding: 40px 20px;
 
@@ -117,7 +131,7 @@ main{
 
 footer{
     width: 100%;
-    border-top: 8px solid rgb(128, 0, 0);
+    border-top: 8px solid #6D28D9;
 }
 
 li{
@@ -174,6 +188,13 @@ p{
     text-indent: 30px;
     margin-top: 15px;    
     margin-bottom: 25px; 
+    color: #ffffff;
+      background: rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(4px);
+
+    padding: 20px;
+    border-radius: 12px;
+   
 }
 img{
     margin: 20px;
@@ -197,11 +218,11 @@ img{
 .banner-seta {
   display: inline-block;
   position: relative;
-  background-color: rgb(0, 0, 0); 
-  color: rgb(255, 0, 0);              
+  background-color:  #050505 ; 
+  color: #F59E0B;              
   font-weight: bold;
   padding: 15px 40px;      
-  border-left: 20px solid rgb(0, 0, 0); 
+  border-left: 20px solid #9333EA; 
   box-sizing: border-box;
 }
 .banner-seta::after {
@@ -214,7 +235,7 @@ img{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid  #EA580C;    
 }
 .h3giga{
     font-size: 40px;
@@ -225,7 +246,9 @@ img{
     margin: 30px auto;
     background-color: black;
     color: white;
-    box-shadow: 0 0 15px #550101, 0 0 40px #550101;
+    box-shadow:
+    0 0 15px #8B5CF6,
+    0 0 40px rgba(139, 92, 246, 0.5);
 }
 .tabela td, .tabela th, .tabela tr {
     border: 2px solid #ffffff;

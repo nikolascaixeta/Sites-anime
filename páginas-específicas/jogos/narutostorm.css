@@ -1,7 +1,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   
+   background: url(../../Imgeral/imgespecífica/narutoa.png);
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
     margin: 0px;
     display: flex;
     flex-direction: column;
