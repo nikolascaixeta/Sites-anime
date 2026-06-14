@@ -1,25 +1,28 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   
+   background: url(../../Imgeral/imgespecífica/bleachfundo.webp);
     margin: 0px;
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
 .cabecalho {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     padding: 10px 40px;
-    background-color: #000000;
+    background-color: black;
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid rgb(128, 0, 0);
+    border-bottom: 8px solid #C1121F;
 }
 .menu ul {
     display: flex;
@@ -58,16 +61,16 @@ body{
     margin-left: 80px;
 }
 a {
-    color: rgb(240, 240, 240); 
+    color: #ffffff; 
     text-decoration: none;
     transition: color 0.3s ease; 
 }
 a:hover {
-    color: red; 
+    color: #EF233C; 
 }
 
 .site-footer {
-  background-color: #0a0a0a; 
+  background-color: black; 
  
   padding: 40px 20px;
 
@@ -91,7 +94,7 @@ a:hover {
 
 
 .footer-column h3 {
-  color: rgb(128, 0, 0);
+  color: #C1121F;
   font-size: 1.2rem;
   margin-bottom: 15px;
   text-transform: uppercase;
@@ -117,7 +120,7 @@ main{
 
 footer{
     width: 100%;
-    border-top: 8px solid rgb(128, 0, 0);
+    border-top: 8px solid #C1121F;
 }
 
 li{
@@ -145,7 +148,7 @@ li{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid  #FF9800;    
 }
 h2, h3{
     color: rgb(128, 0, 0) ;
@@ -153,7 +156,7 @@ h2, h3{
 .center{
     text-align: justify;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 10px auto;
      
 }
 .Imgcentro{
@@ -174,6 +177,12 @@ p{
     text-indent: 30px;
     margin-top: 15px;    
     margin-bottom: 25px; 
+    color: #ffffff;
+     background: rgba(0, 0, 0, 0.45);
+    backdrop-filter: blur(4px);
+
+    padding: 20px;
+    border-radius: 12px;
 }
 img{
     margin: 20px;
@@ -197,11 +206,11 @@ img{
 .banner-seta {
   display: inline-block;
   position: relative;
-  background-color: rgb(0, 0, 0); 
-  color: rgb(255, 0, 0);              
+  background-color: #0B0B0B; 
+  color: #C1121F;              
   font-weight: bold;
   padding: 15px 40px;      
-  border-left: 20px solid rgb(0, 0, 0); 
+  border-left: 20px solid #F57C00; 
   box-sizing: border-box;
 }
 .banner-seta::after {
@@ -214,7 +223,7 @@ img{
   
   border-top: 38px solid transparent;  
   border-bottom: 38px solid transparent; 
-  border-left: 30px solid  rgb(128, 0, 0);    
+  border-left: 30px solid  #F57C00;    
 }
 .h3giga{
     font-size: 40px;
@@ -225,9 +234,20 @@ img{
     margin: 30px auto;
     background-color: black;
     color: white;
-    box-shadow: 0 0 15px #550101, 0 0 40px #550101;
+    box-shadow: 0 0 15px #550101, 0 0 40px #C1121F;
 }
 .tabela td, .tabela th, .tabela tr {
     border: 2px solid #ffffff;
     padding: 8px;
+    text-align: center;
+}
+#audion{
+    display: none;
+}
+main{
+  color:#F7D447 ;  
+}
+.row{
+    display: flex;
+    flex-direction: row;
 }
