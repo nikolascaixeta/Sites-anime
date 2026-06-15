@@ -12,6 +12,10 @@ body{
   background-size: cover;
 
 }
+.row{
+    display: flex;
+    flex-direction: row;
+}
 .cabecalho {
     display: flex;
     justify-content: flex-start;
@@ -25,8 +29,12 @@ body{
     z-index: 1000;
     border-bottom: 8px solid #e0b0ff;
 }
+.centro3{
+    max-width: 1000px;
+}
 .menu ul {
     display: flex;
+     justify-content:space-between;
     
     list-style: none;
     gap: 30px;
@@ -40,7 +48,7 @@ body{
 .imgtopo2{
     width: 48px;
     height: 48px;
-    
+    padding: 36px;
     transition: transform 0.3s ease;
 }
 .imgtopo2:hover{
@@ -51,15 +59,13 @@ body{
 }
 .esquerda{
     display: flex;
-    justify-content: flex-start;
-}
-.centro{
-    display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     
 }
-.direita{
-    margin-left: 80px;
+
+.centro{
+    display: flex;
+    
 }
 a {
     color: rgb(240, 240, 240); 
@@ -158,8 +164,12 @@ h2, h3{
     text-align: justify;
     max-width: 1000px;
     margin: 10px auto;
-     
+    text-indent: 30px;
+       
+    margin-bottom: 25px; 
 }
+     
+
 .Imgcentro{
     width: 800px;
     height: auto;
