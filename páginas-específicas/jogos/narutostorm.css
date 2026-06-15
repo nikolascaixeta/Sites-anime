@@ -1,18 +1,20 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-   background: url(https://static.wikia.nocookie.net/naruto/images/1/12/Vale_do_Fim.PNG/revision/latest?cb=20120919215230&path-prefix=pt-br);
-   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size: cover;
     margin: 0px;
     padding: 0px;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     width: 100%;
+    background: url(https://static.wikia.nocookie.net/naruto/images/1/12/Vale_do_Fim.PNG/revision/latest?cb=20120919215230&path-prefix=pt-br) no-repeat center top fixed;
+    background-size: cover;
+    background-color: #000;
+}
 
+.fundo1 {
+    min-height: 100vh;
+    padding-top: 180px;
 }
 
 .cabecalho {

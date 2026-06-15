@@ -11,6 +11,9 @@ body{
   
   background-size: cover;
 }
+#audion{
+    display: none;
+}
 .cabecalho {
     display: flex;
     justify-content: flex-start;
