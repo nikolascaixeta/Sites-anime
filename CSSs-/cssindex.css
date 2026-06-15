@@ -294,19 +294,34 @@ p{
 .txtp{
     color: #ffffff;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 32px;
-    display: flex;
-    flex-direction: row ;
-    justify-content: center;
-    margin: 20px;     
-    gap: 12px;                    
-    padding: 18px 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);   
+    gap: 30px;                    
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
     width: 100%;
-    height: auto;
-    gap: 12px;
+    box-sizing: border-box;
+}
+
+.txtp li {
+    font-size: 28px;        
+    padding: 20px;
+    border-radius: 8px;    
+    border-top: 3px solid rgb(255, 0, 0);
+}
+
+.txtp li strong {
+    color: rgb(255, 255, 255);
+    text-shadow:0px 0px 6px #ff0000;
+    font-size: 40px;
+    display: inline-block;
+    margin-bottom: 8px;
+    box-shadow:0px 0px 12px #ffffff;
 }
 
 ul{
     list-style: none;
     gap: 20px;
 }
+
