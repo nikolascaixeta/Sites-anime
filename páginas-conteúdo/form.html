@@ -40,7 +40,6 @@
        <h3>Responda esse questionário:</h3>
         <label for="pnome">Nome: </label>
         <input type="text" name="Nome" class="pnome"><br>
-
         <label for="sobrenome">Sobrenome: </label>
         <input type="text" name="Sobrenome" class="sobrenome"><br>
 
@@ -51,37 +50,67 @@
       </Div>
       <div class="genre">
         <h3>Escolha seu Gênero de anime favorito</h3>
-        <input type="radio" name="genero" id="Shounen">
-        <label for="Shounen">Shounen</label> <br>
-        <input type="radio" name="genero" id="Seinen">
-        <label for="Seinen">Seinen</label> <br>
-        <input type="radio" name="genero" id="Josei">
-        <label for="Josei">Josei</label> <br>
-        <input type="radio" name="genero" id="Shoujo">
-        <label for="tele">Shoujo</label> <br>
-      </div>
-
+        <div class="option">
+          <input type="radio" name="genero" id="Shounen">
+          <label for="Shounen">Shounen</label>
+        </div>
+        <div class="option">
+          <input type="radio" name="genero" id="Seinen">
+          <label for="Seinen">Seinen</label>
+        </div>
+        <div class="option">
+          <input type="radio" name="genero" id="Josei">
+          <label for="Josei">Josei</label>
+        </div>
+        <div class="option">
+          <input type="radio" name="genero" id="Shoujo">
+          <label for="Shoujo">Shoujo</label>
+        </div>
+      </div> 
+      <div class="box">
           <h3>Quais seus animes favoritos que estão no nosso site ? </h3>
-          <input type="checkbox" class="Dbz">
-          <label for="Dbz">Dragon Ball Z</label><br>
-          <input type="checkbox" class="Ds">
-          <label for="Ds">Demon Slayer</label><br>
-          <input type="checkbox" class="Op">
-          <label for="Op">One Piece</label><br>
-          <input type="checkbox" class="Bleach">
-          <label for="Bleach">Bleach</label><br>
-          <input type="checkbox" class="jojo">
-          <label for="jojo">Jojo Bizarre's Adventure</label><br>
-          <input type="checkbox" class="Berserk">
-          <label for="Berserk">Berserk</label><br>
-          <input type="checkbox" class="dgm">
-          <label for="dgm">Digimon</label><br>
-          <input type="checkbox" class="cvz">
-          <label for="cvz">Cavaleiros do Zodiáco</label><br>
-          <input type="checkbox" class="pkm">
-          <label for="pkm">Pokemon</label><br>
-          <input type="checkbox" class="yugi">
-          <label for="yugi">Yu-Gi-Oh</label><br>
+          <div class="option">
+            <input type="checkbox" class="Dbz" id="Dbz">
+            <label for="Dbz">Dragon Ball Z</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="Ds" id="Ds">
+            <label for="Ds">Demon Slayer</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="Op" id="Op">
+            <label for="Op">One Piece</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="Bleach" id="Bleach">
+            <label for="Bleach">Bleach</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="jojo" id="jojo">
+            <label for="jojo">Jojo Bizarre's Adventure</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="Berserk" id="Berserk">
+            <label for="Berserk">Berserk</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="dgm" id="dgm">
+            <label for="dgm">Digimon</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="cvz" id="cvz">
+            <label for="cvz">Cavaleiros do Zodiáco</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="pkm" id="pkm">
+            <label for="pkm">Pokemon</label>
+          </div>
+          <div class="option">
+            <input type="checkbox" class="yugi" id="yugi">
+            <label for="yugi">Yu-Gi-Oh</label>
+          </div>
+        </div>
+        <div class="fav">
           <h3>Escolha sua página favorita</h3>
             <select name="lista" id="fav">
             <option value="ani">Animes</option>
@@ -90,9 +119,12 @@
             <option value="msc">Aberturas</option>
             <option value="jg">Jogos</option>
             </select>
-            <p>Sugestões de adição</p>
+        </div>
+        <div class="sugs">    
+          <h3>Sugestões de adição</h3>
         <textarea rows="30" cols="40"></textarea><br>
         <button onclick="alert('Finalizado')">Enviar quetionário</button>
+        </div>
       </form>
       </div>
 
