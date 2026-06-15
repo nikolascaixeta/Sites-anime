@@ -288,6 +288,42 @@ label{
 .senha[type="password"]{
     width: 305px;
 }
-.genre{
-    
+.genre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
+.genre .option {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8px;
+  width: 100%;
+  max-width: 360px;
+}
+.genre .option input {
+  margin: 0;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+}
+.box .option {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    width: 100%;
+    max-width: 360px;
+}
+.fav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
