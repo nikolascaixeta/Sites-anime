@@ -6,11 +6,15 @@ body{
     display: flex;
     flex-direction: column;
     min-width: 100vh;
-     
+
+}
+.row{
+    display: flex;
+    flex-direction: row;
 }
 .cabecalho {
     display: flex;
-    justify-content: flex-start;
+    justify-content:space-between;
     align-items: center;
     padding: 10px 40px;
     background-color: #000000;
@@ -19,10 +23,14 @@ body{
     left: 0;
     width: 100%;
     z-index: 1000;
-    border-bottom: 8px solid rgb(128, 0, 0);
+    border-bottom: 8px solid rgb(255, 0, 0);
+}
+.centro3{
+    max-width: 1000px;
 }
 .menu ul {
     display: flex;
+     justify-content:space-between;
     
     list-style: none;
     gap: 30px;
@@ -36,7 +44,7 @@ body{
 .imgtopo2{
     width: 48px;
     height: 48px;
-    
+    padding: 36px;
     transition: transform 0.3s ease;
 }
 .imgtopo2:hover{
@@ -47,15 +55,13 @@ body{
 }
 .esquerda{
     display: flex;
-    justify-content: flex-start;
-}
-.centro{
-    display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     
 }
-.direita{
-    margin-left: 80px;
+
+.centro{
+    display: flex;
+    
 }
 a {
     color: rgb(240, 240, 240); 
@@ -116,7 +122,7 @@ main{
 
 footer{
     width: 100%;
-    border-top: 8px solid rgb(128, 0, 0);
+    border-top: 8px solid rgb(255, 0, 0);
 }
 
 li{
@@ -153,6 +159,9 @@ h2, h3{
     text-align: justify;
     max-width: 1000px;
     margin: 0 auto;
+    text-indent: 30px;
+      
+  margin-bottom: 25px; 
      
 }
 .Imgcentro{
