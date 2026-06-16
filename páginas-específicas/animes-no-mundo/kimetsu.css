@@ -31,11 +31,16 @@ body{
 }
 .centro3{
     max-width: 1000px;
+    width: 100%;
+}
+.centro{
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
 .menu ul {
     display: flex;
-     justify-content:space-between;
-    
+    justify-content: center;
     list-style: none;
     gap: 30px;
 }
