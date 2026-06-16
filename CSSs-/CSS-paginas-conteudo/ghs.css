@@ -181,7 +181,7 @@ h2, h3{
 p{
      text-indent: 30px;
      margin-top: 15px;    
-  margin-bottom: 25px; 
+     margin-bottom: 25px; 
 }
 img{
     margin: 20px;
@@ -230,7 +230,7 @@ img{
     font-size: 40px;
 }
 h2, h3{
-    color: rgb(128, 0, 0) ;
+    color: rgb(226, 207, 37) ;
 }
 .center{
     text-align: justify;
@@ -240,31 +240,24 @@ h2, h3{
     
     
 }
+.empressa{
+   max-width: 1200px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+}
+.int{
+    width: auto;
+    height: 250px;
+}
+.logo{
+    width: 400px;
+    height: auto;
+}
+.time{
+    
+}
 
-.imgs{
-    color: gold;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    align-items: center;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    text-align: center;
-}
-#tam{
-    width: 500px;
-    height: auto;
-    margin: 0 auto;
-    display: block;
-}
-.p{
-    font-size:xx-large
-}
-#time{
-    width: 500px;
-    height: auto;
-    margin: 0 auto;
-    display: block;
-}
 
 
